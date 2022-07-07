@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @d-rath
 - 👀 I’m interested in Project Management, AI, Quantum Physics 
 - 🌱 I’m currently learning Reinforcement Learning, GANs
-- 💞️ I’m looking to collaborate on ...Agile, RL
+- 💞️ I’m looking to collaborate on ...Agile, Deep Learning, RL
 - 📫 How to reach me ...debasis.rath@outlook.com
 
 <!---
