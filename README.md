@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @d-rath
-- 👀 I’m interested in Project Management, AI, Quantum Physics 
-- 🌱 I’m currently learning Reinforcement Learning, GANs
-- 💞️ I’m looking to collaborate on ...Agile, Deep Learning, RL
-- 📫 How to reach me ...debasis.rath@outlook.com
+- 📫 How to reach me ...email@debasisrath.com
 
 <!---
 d-rath/d-rath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
